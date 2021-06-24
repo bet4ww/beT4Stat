@@ -1,0 +1,21 @@
+{
+  "name": "discord-stat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "bet4-bot",
+    "stat",
+    "discord"
+  ],
+  "author": "Beta",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2"
+  }
+}
